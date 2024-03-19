@@ -1,0 +1,58 @@
+.logo{
+    width: 150px;
+    height: 100px;
+}
+body{
+background: black;
+
+nada{
+    background: linear-gradient(rgb(0, 89, 253), rgb(2, 128, 245));
+    
+    }
+}
+.container{
+display: flex;
+}
+.colum{
+    color: wheat;
+    text-align: center;
+    margin: 0 15px;
+    padding: 10px;
+}
+.colum{
+    margin: 0 15px;
+    color: wheat;
+    text-align: center;
+    padding: 10px;
+}
+
+.titulo{
+    color:rgb(165, 179, 190);
+}
+.parrafo{
+    color: azure;
+    padding: 15px;
+}
+.img{
+    width: 300px;
+    height: 190px;
+}
+.lis{
+    color: azure;
+}
+.btn1{
+    padding: 25px;
+    border-radius: 1rem;
+   
+    background: linear-gradient(rgb(213, 45, 255), rgb(115, 69, 224));
+    color: rgb(255, 255, 255);
+
+}
+.btn2{
+    padding: 25px;
+    border-radius: 1rem;
+   
+    background: linear-gradient(rgb(213, 45, 255), rgb(115, 69, 224));
+    color: rgb(255, 255, 255);
+
+}
